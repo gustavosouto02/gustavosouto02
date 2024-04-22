@@ -15,7 +15,9 @@ Dev em formação, Cursando Ciências da Computação atualmente no 3° Semestre
 </div>
 
 <div>
-  #### Linguagens que eu mais uso:
+
+  
+Linguagens mais utilizadas:
 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosouto02&layout=compact)
