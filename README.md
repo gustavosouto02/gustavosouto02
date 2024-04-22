@@ -14,3 +14,4 @@ Dev em formação, Cursando Ciências da Computação atualmente no 3° Semestre
 
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosouto02&layout=compact)(https://github.com/gustavosouto02/github-readme-stats)
