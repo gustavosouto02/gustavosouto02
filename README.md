@@ -11,15 +11,10 @@ Dev em formação, Cursando Ciências da Computação atualmente no 3° Semestre
 <img align="center" alt= python src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt= javascript src="https://img.shields.io/badge/Javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white" />
 
-
-</div>
-
-<div>
-
-  
-Linguagens mais utilizadas:
-
-  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosouto02&layout=compact)
 </div>
+
+
+  
+
 
