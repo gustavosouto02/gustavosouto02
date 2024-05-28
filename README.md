@@ -15,7 +15,7 @@ Dev em formação, Cursando Ciências da Computação atualmente no 3° Semestre
 </div>
 
 <div><br/>
-[![Gustavo's Stats](https://github-readme-stats.vercel.app/api?username=gustavosouto02)](https://github.com/anuraghazra/github-readme-stats)
+[![Gustavo's Stats](https://github-readme-stats.vercel.app/api?username=gustavosouto02)]
 
 
 </div>
