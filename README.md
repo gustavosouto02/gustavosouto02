@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gustavo Souto 👋
 
 #### Sobre mim:
-Dev em formação, Cursando Ciências da Computação atualmente no 3° Semestre, na Universidade Católica de Brasília
+Dev em formação, Cursando Ciências da Computação atualmente no 5° Semestre, na Universidade Católica de Brasília
 
 #### Tecnologias que eu uso:
 <div style="display: inline-block"><br/>
