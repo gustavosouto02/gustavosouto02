@@ -1,19 +1,33 @@
-### Olá! Eu sou o Gustavo Souto 👋
+# 👋 Olá, eu sou o Gustavo Souto!
 
-#### Sobre mim:
-Dev em formação, Cursando Ciências da Computação atualmente no 5° Semestre, na Universidade Católica de Brasília
+🎓 Estudante de Ciência da Computação (6º semestre) na Universidade Católica de Brasília  
+🍎 iOS App Developer na **Apple Developer Academy | UCB**  
+💻 Apaixonado por tecnologia, desenvolvimento mobile e inteligência artificial  
 
-#### Tecnologias que eu uso:
-<div style="display: inline-block"><br/>
-<img align="center" alt= html5 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt= css src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt= c/c+ src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img align="center" alt= python src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt= javascript src="https://img.shields.io/badge/Javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white" />
+## 🚀 Tecnologias & Ferramentas
+- **Mobile:** Swift, SwiftUI, UIKit, Xcode  
+- **Web:** HTML, CSS, JavaScript, React, Node.js  
+- **Back-End & Dados:** Python, FastAPI, SQL, Pandas, Scikit-learn  
+- **Outros:** Git/GitHub, Scrum, Metodologias Ágeis  
+
+## 📂 Projetos em Destaque
+🔹 CashUp: Organizador Financeiro – Aplicativo para controle financeiro pessoal
+🔗 [Repositório no GitHub](https://github.com/gustavosouto02/CashUp-App00.git)  
+📱 [Disponível na App Store](https://apps.apple.com/br/app/cashup-organizador-financeiro/id6747360490) 
 
 
-</div>
+🔹 SETE: Esporte e Performance  – Aplicativo para evolução pessoal em esportes de quadra  
+🔗 [Repositório no GitHub](https://github.com/FilipiNyetz/FtvApp-New.git) 
+📱 [Disponível na App Store](https://apps.apple.com/br/app/sete-esporte-e-performance/id6751563867) 
 
+🔹 BancoMalvader – Sistema bancário Java + MySQL
+🔗 [Repositório no GitHub](https://github.com/gustavosouto02/banco-malvader.git) 
+
+## 📊 GitHub Stats
+![Gustavo Souto GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosouto02&show_icons=true&theme=tokyonight)
+
+---
+✉️ Vamos nos conectar? [LinkedIn](https://www.linkedin.com/in/gustavo-souto/)
 
 
 
