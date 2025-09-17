@@ -23,9 +23,6 @@
 🔹 BancoMalvader – Sistema bancário Java + MySQL
 🔗 [Repositório no GitHub](https://github.com/gustavosouto02/banco-malvader.git) 
 
-## 📊 GitHub Stats
-![Gustavo Souto GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosouto02&show_icons=true&theme=tokyonight)
-
 ---
 ✉️ Vamos nos conectar? [LinkedIn](https://www.linkedin.com/in/gustavo-souto/)
 
