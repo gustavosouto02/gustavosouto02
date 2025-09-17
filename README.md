@@ -13,8 +13,7 @@
 ## 📂 Projetos em Destaque
 🔹 CashUp: Organizador Financeiro – Aplicativo para controle financeiro pessoal
 
-🔗 [Repositório no GitHub](https://github.com/gustavosouto02/CashUp-App00.git)  
-📱 [Disponível na App Store](https://apps.apple.com/br/app/cashup-organizador-financeiro/id6747360490) 
+🔗 [Repositório no GitHub](https://github.com/gustavosouto02/CashUp-App00.git)  📱 [Disponível na App Store](https://apps.apple.com/br/app/cashup-organizador-financeiro/id6747360490) 
 
 
 🔹 SETE: Esporte e Performance  – Aplicativo para evolução pessoal em esportes de quadra  
